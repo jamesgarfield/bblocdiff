@@ -1,4 +1,4 @@
-Provide a net lines-of-code change counter in Bitbucket Pull Requests.
+Provide a net lines-of-code difference in Bitbucket Pull Requests.
 
 Usage:
 
